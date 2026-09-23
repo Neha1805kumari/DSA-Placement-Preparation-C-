@@ -29,6 +29,6 @@ git status
 
 git add .
 
-git commit -m "Add koko eating banana"
+git commit -m "Add arranging coins"
 
 git push
